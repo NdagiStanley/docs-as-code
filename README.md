@@ -1,4 +1,4 @@
-# Wimbo wa Taifa
+# National Anthem/ Wimbo wa Taifa
 
 ## Verse 1
 
