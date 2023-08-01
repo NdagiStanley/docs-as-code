@@ -1,5 +1,9 @@
-# National Anthem/ Wimbo wa Taifa
+# National Anthem
 
 ## Verse 1
 
-Ee Mungu ...
+Oh Lord ...
+
+## Verse 2
+
+...
