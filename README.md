@@ -106,7 +106,7 @@ Syntax and Tool
   In-depth content [about git commits](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
 
 - git branches
-  
+
   _**branches** explained_ - A tree grows as one trunk then at a point (commit), then a branch/ branches grow. But, in git, the branch can join the main branch/ trunk)
 
   A branch is a separate linear series of commits (oversimplified, at least that's usually the intention).
