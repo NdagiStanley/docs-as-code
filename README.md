@@ -95,7 +95,8 @@ Syntax and Tool
 
   _**commit** explained_ - You can play around, a time comes when you _commit_. git commit - commit a change/ version)
 
-  [Getting started](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+  [Getting started (Atlassian Tutorial)](https://www.atlassian.com/git/tutorials/setting-up-a-repository)\
+  [VSCode inbuilt Source Control](https://code.visualstudio.com/docs/sourcecontrol/overview)
 
   - `git init`
   - `git add .`
@@ -121,7 +122,9 @@ Syntax and Tool
 
 ## GITHUB
 
-[Collaborating](https://www.atlassian.com/git/tutorials/syncing)
+[GitHub docs](https://docs.github.com/get-started)\
+[GitHub Training Manual](https://githubtraining.github.io/training-manual/#/)\
+[Collaborating - (Atlassian Tutorial)](https://www.atlassian.com/git/tutorials/syncing)
 
 - Distributed Git
   - Remote Git repository - GitHub
