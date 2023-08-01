@@ -27,6 +27,10 @@ Event: https://md.engineer/wtd-dc
 
 ![About](LinkedIN%20screenshot.png)
 
+Contact: [md.engineer/contact](https://md.engineer/contact/)\
+Web Profile: [md.engineer](https://md.engineer/)\
+My writing: [md.engineer/writing](https://md.engineer/writing)
+
 ### Software Engineering and Digital Products professional
 
 - 7+ years professional experience
