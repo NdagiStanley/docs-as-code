@@ -42,6 +42,14 @@ My writing: [md.engineer/writing](https://md.engineer/writing)
   - Product Management
   - Content (Docs and UX writing)
 
+## Docs-as-code
+
+[Docs-as-code (by WTD WriteTheDocs)](https://www.writethedocs.org/guide/docs-as-code/)\
+**Philosophy where documentation is treated as code**\
+Documentation as Code (Docs as Code) refers to a philosophy that you should be writing documentation with the same tools as code
+
+For purposes of this session I'll handle three main areas; Markdown as a format, Git for version control, and GitHub as the platform.
+
 ## Table of Contents
 
 - [Content format - Markdown](#markdown)
@@ -112,7 +120,7 @@ Syntax and Tool
   A branch is a separate linear series of commits (oversimplified, at least that's usually the intention).
   - `git checkout -b <branch-name>` (check-out (as in a ) branch out)
   - Multiple branches
-    - alias [`glogat`](https://github.com/NdagiStanley/dotfiles/blob/main/.aliases#L17)
+    - alias [`glogat`](https://github.com/NdagiStanley/dotfiles/blob/main/.aliases#L17) (To show one-line commits with timestamps and a graph showing branching visually)
 
   In-depth content [about Git branches](](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)).
 
@@ -150,6 +158,21 @@ Syntax and Tool
 > I touched on these during the recording. Despite having more than 1 hour to cover it, I felt that time was still short and I rushed through it.
 >
 > Had I managed my time better, I would have pushed this section to another presentation.
+
+### On Docs-as-code
+
+- [Fast facts about docs as code at GitLab](https://about.gitlab.com/blog/2022/10/12/five-fast-facts-about-docs-as-code-at-gitlab/)
+- [CloudFlare's docs-as-code-approach](https://blog.cloudflare.com/our-docs-as-code-approach/)
+- [docs-as-code article by opensource.com](https://opensource.com/article/22/10/docs-as-code)
+- [docs-as-code article by I'd Rather Be Writing](https://idratherbewriting.com/learnapidoc/pubapis_docs_as_code.html)
+- [docs-as-code article by grab's engineering team](https://engineering.grab.com/doc-as-code)
+- [docs-as-code article by Nordic APIs](https://nordicapis.com/what-is-docs-as-code-and-why-does-it-matter/)
+- <https://www.docslikecode.com/>
+- [Some common references and introductory content on Docs as Code](https://cchesser.github.io/docs-as-code/)
+
+### On Technical Docs
+
+- <https://diataxis.fr/> - A systematic approach to technical documentation authoring
 
 ### On Markdown
 
