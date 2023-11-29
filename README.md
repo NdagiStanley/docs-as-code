@@ -31,6 +31,8 @@ Contact: [md.engineer/contact](https://md.engineer/contact/)\
 Web Profile: [md.engineer](https://md.engineer/)\
 My writing: [md.engineer/writing](https://md.engineer/writing)
 
+> Unfortunately I couldn't get a great excerpt from the recording to share. The notes here will have to do.
+
 ### Software Engineering and Digital Products professional
 
 - 7+ years professional experience
@@ -157,7 +159,7 @@ Syntax and Tool
 >
 > I touched on these during the recording. Despite having more than 1 hour to cover it, I felt that time was still short and I rushed through it.
 >
-> Had I managed my time better, I would have pushed this section to another presentation.
+> In retrospect, this section deserves another presentation should the team at WTD have me (for their community)
 
 ### On Docs-as-code
 
