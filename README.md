@@ -1,5 +1,5 @@
 ---
-Duration: ~~1 hour~~
+Duration: ~1 hour
 Audience: Writers et al
 Host: Write The Docs
 Event: https://md.engineer/wtd-dc
@@ -31,7 +31,7 @@ Contact: [md.engineer/contact](https://md.engineer/contact/)\
 Web Profile: [md.engineer](https://md.engineer/)\
 My writing: [md.engineer/writing](https://md.engineer/writing)
 
-> Unfortunately I couldn't get a great excerpt from the recording to share. The notes here will have to do.
+> Unfortunately, I couldn't get a great excerpt from the recording to share. The notes here will have to do 🙏
 
 ### Software Engineering and Digital Products professional
 
